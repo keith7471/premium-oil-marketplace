@@ -1,0 +1,6 @@
+{
+  "name": "Harvest & Grove Oils",
+  "description": "Premium culinary and cold-pressed edible oils crafted for everyday cooking excellence. Serving Canada and India with pure mustard, extra virgin olive, and sunflower oils.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
